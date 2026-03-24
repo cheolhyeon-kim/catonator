@@ -1,3 +1,5 @@
+# This program transforms standard photographs into cartoon-style images using digital image processing techniques.
+
 
 ## 1. 기술 및 알고리즘
 Linear Intensity:  $I' = \alpha I + \beta$대비($\alpha=1.2$) 와 밝기($\beta=10$)를 높여 이미지의 시인성 확보 
